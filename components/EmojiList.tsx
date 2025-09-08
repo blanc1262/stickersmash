@@ -21,6 +21,11 @@ export default function EmojiList({ onSelect, onCloseModal }: Props) {
     require("../assets/images/emojimike3.png"),
     require("../assets/images/demonyomike.png"),
     require("../assets/images/emojimike2.png"),
+    require("../assets/images/spongebob.png"),
+    require("../assets/images/patrick.png"),
+    require("../assets/images/squidward.png"),
+    require("../assets/images/pineapple.png"),
+    require("../assets/images/logo.png"),
   ]);
 
   return (
